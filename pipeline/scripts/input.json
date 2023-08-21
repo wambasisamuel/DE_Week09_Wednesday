@@ -1,0 +1,4 @@
+{"transaction_id": "12345","sender_phone_number": "256777123456","receiver_phone_number":"256772987654","transaction_amount": 100000,"transaction_time": "2023-04-19 12:00:00"},
+{"transaction_id": "12346","sender_phone_number": "256777123457","receiver_phone_number":"256772987655","transaction_amount": 200000,"transaction_time": "2023-05-19 13:00:00"},
+{"transaction_id": "12347","sender_phone_number": "256777123458","receiver_phone_number":"256772987656","transaction_amount": 300000,"transaction_time": "2023-06-19 14:00:00"},
+{"transaction_id": "12345","sender_phone_number": "256777123459","receiver_phone_number":"256772987657","transaction_amount": 400000,"transaction_time": "2023-07-19 15:00:00"}
