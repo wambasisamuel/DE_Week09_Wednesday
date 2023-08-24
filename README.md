@@ -1,6 +1,6 @@
 # DE_Week09_Wednesday
 
-I set up a Kafka cluster comprised of one broker and a Zookeeper using a docker containers running on a DigitalOcean droplet
+I set up a Kafka cluster comprised of one broker and a Zookeeper using a docker container running on a DigitalOcean droplet
 
 Deployment:
 - Clone the reposiory
